@@ -6,7 +6,7 @@
 
     
     
-# Hola, soy Gabo 👋  
+# Bonjour, je suis Gabo 👋  
 
 ![Banner](https://github.com/DuranTTV/DuranTTV/blob/main/assets/banner.gif)  
 

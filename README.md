@@ -1,5 +1,4 @@
-<div id="header" align="center">
-    <img src= "<iframe src="https://gifer.com/embed/4Xnj" width=480 height=270.084 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>" width="500"/>                                                             
+<div id="header" align="center">                                                            
     <h1 align="center">Welcome 🌚🌙,I'm Gabriel Durán</h1>
     <h3 align="center">The Champions.</h3>
 </div>
@@ -21,7 +20,7 @@ Soy un apasionado desarrollador con experiencia en...
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DuranTTV&show_icons=true&theme=radical)  
 
 ## 🎵 Escuchando ahora  
-[![Spotify](https://spotify-readme.vercel.app/api?theme=dark)](https://open.spotify.com/user/j6tm93mrg9prbeymia0t7lnic
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/j6tm93mrg9prbeymia0t7lnic?si=8b095f25a99e4a46)
 
 )  
 

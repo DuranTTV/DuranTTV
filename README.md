@@ -7,7 +7,7 @@
     
     
 <div id="badges" align="center"
-<a href="https://www.twitch.tv/durantttvve" target="_blank">
+<a href="https://www.twitch.tv/emiratosve" target="_blank">
     <img src="https://img.shields.io/twitch/status/TwitchJannisVzla?logo=Twitch&style=for-the-badge"
         alt="Twitch Badge"/>
 

@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src= "https://media.giphy.com/media/fCsBD0QEK3YGs/giphy.gif" width="500"/>                                                             
     <h1 align="center">Welcome 🌚🌙,I'm Gabriel Durán</h1>
-    <h3 align="center">I'm 18 years old and I'm really passionate about programming and the use of various programming languages. I'm from Caracas-Venezuela. I like boxing and I am an entrepreneur.</h3>
+    <h3 align="center">The Champions.</h3>
 </div>
 
     
@@ -31,13 +31,11 @@
 
 <h3>💎ABOUT ME :</h3>
 
--I really like the study📚
+-Just enjoy my content 
 
--I use both MySQL workbench and Python🌗
+-I FAN ABOUT CISCO
 
--I play a lot of overwatch🔮
 
--I have a basic english, but.........Actually im learning with books and series📜
 
 
 <div align="left">

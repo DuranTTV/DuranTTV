@@ -29,34 +29,10 @@ Actualmente radicado en Los Teques, me describo como una persona proactiva, adap
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/j6tm93mrg9prbeymia0t7lnic?si=8b095f25a99e4a46)
 
 
-def idiomas():
-    español = {
-        "nivel": "Nativo",
-        "icono": "🇻🇪",
-        "progreso": "██████████",  # 100%
-        "color": "\033[92m"  # Verde
-    }
-    
-    inglés = {
-        "nivel": "Básico",
-        "icono": "🇬🇧",
-        "progreso": "███░░░░░░░",  # 30%
-        "color": "\033[93m"  # Amarillo
-    }
-    
-    francés = {
-        "nivel": "Básico", 
-        "icono": "🇫🇷",
-        "progreso": "██░░░░░░░░",  # 20%
-        "color": "\033[94m"  # Azul
-    }
-    
-    print(f"\n\033[1mLANGUAGES / IDIOMAS:\033[0m\n")
-    print(f"{español['color']}{español['icono']} Español:   {español['progreso']} {español['nivel']}\033[0m")
-    print(f"{inglés['color']}{inglés['icono']} English:   {inglés['progreso']} {inglés['nivel']}\033[0m")
-    print(f"{francés['color']}{francés['icono']} Français:  {francés['progreso']} {francés['nivel']}\033[0m")
-
-idiomas()
+### 🌍 Idiomas  
+![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat&logo=duolingo)  
+![English](https://img.shields.io/badge/English-Básico-yellow?style=flat&logo=duolingo)  
+![Français](https://img.shields.io/badge/Français-Básico-blue?style=flat&logo=duolingo)  
 
 
 

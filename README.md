@@ -8,7 +8,7 @@
     
 # Hola, soy Gabo 👋  
 
-![Banner](https://github.com/TuUsuario/DuranTTV/blob/main/assets/banner.gif)  
+![Banner](https://github.com/DuranTTV/DuranTTV/blob/main/assets/banner.gif)  
 
 ## 👨‍💻 Sobre mí  
 

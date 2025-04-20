@@ -21,7 +21,9 @@ Soy un apasionado desarrollador con experiencia en...
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DuranTTV&show_icons=true&theme=radical)  
 
 ## 🎵 Escuchando ahora  
-[![Spotify](https://spotify-readme.vercel.app/api?theme=dark)](https://open.spotify.com/user/TuUsuario)  
+[![Spotify](https://spotify-readme.vercel.app/api?theme=dark)](https://open.spotify.com/user/j6tm93mrg9prbeymia0t7lnic
+
+)  
 
 ## 🐍 Snake Game  
 ![Snake animation](https://github.com/TuUsuario/DuranTTV/blob/output/github-contribution-grid-snake.svg)  

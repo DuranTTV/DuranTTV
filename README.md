@@ -11,7 +11,12 @@
 ![Banner](https://github.com/TuUsuario/DuranTTV/blob/main/assets/banner.gif)  
 
 ## 👨‍💻 Sobre mí  
-Soy un apasionado desarrollador con experiencia en...  
+
+Soy Gabriel Durán, un futuro ingeniero en electrónica (Universidad Simón Bolívar) apasionado por las telecomunicaciones, la ciberseguridad y las matemáticas, especialmente el cálculo integral. Con sólidos conocimientos en redes Cisco (CCNAv7) y habilidades en diseño de topologías, VLANs y protección de equipos, busco siempre aplicar mis conocimientos técnicos en proyectos desafiantes.
+
+Más allá de lo académico, soy un entusiasta del trabajo en equipo y el análisis crítico, habilidades que he desarrollado tanto en el ámbito deportivo (como amante del fútbol) como en mi interés por la política. Mi curiosidad por aprender me ha llevado a dominar herramientas como Cisco Packet Tracer, Canva y programas de edición de video (Filmora, CapCut), combinando así lo técnico con lo creativo.
+
+Actualmente radicado en Los Teques, me describo como una persona proactiva, adaptable y con gran capacidad de autogestión, siempre enfocado en mejorar mis habilidades en inglés y en explorar nuevas tecnologías. ¡Listo para conectar y colaborar!
 
 ## 🛠 Tecnologías  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

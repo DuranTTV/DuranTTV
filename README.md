@@ -6,58 +6,23 @@
 
     
     
-<div id="badges" align="center"
-<a href="https://www.twitch.tv/emiratosve" target="_blank">
-    <img src="https://img.shields.io/twitch/status/TwitchJannisVzla?logo=Twitch&style=for-the-badge"
-        alt="Twitch Badge"/>
+# Hola, soy Gabo 👋  
 
-</a>
+![Banner](https://github.com/TuUsuario/DuranTTV/blob/main/assets/banner.gif)  
 
+## 👨‍💻 Sobre mí  
+Soy un apasionado desarrollador con experiencia en...  
 
-<a href="https://img.shields.io/youtube/channel/subscribers/UCr7daeAX4ggoTshofH3uVFw?logo=Youtube&style=for-the-badge" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCr7daeAX4ggoTshofH3uVFw?logo=Youtube&style=for-the-badge"
-            alt="Yt Badge"/>
+## 🛠 Tecnologías  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-            
-</a>
+## 📊 Estadísticas  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DuranTTV&show_icons=true&theme=radical)  
 
+## 🎵 Escuchando ahora  
+[![Spotify](https://spotify-readme.vercel.app/api?theme=dark)](https://open.spotify.com/user/TuUsuario)  
 
-
-</div>
-
-
----
-
-
-<h3>💎ABOUT ME :</h3>
-
--Just enjoy my content 
-
--I FAN ABOUT CISCO
-
-
-
-
-<div align="left">
-    <h3>🛠️ Languages that I use: </h3>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"   title="MY SQL workbench" alt="SQL" width="40" height="40"/>
-    
-  </div>
-</div>
-
----
-
-📈 <h4>MY STATS:</h4>
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JannisVzla&theme=submarine-flowers&hide_border=true)
-
-![Skekchek GitHub stats](https://github-readme-stats.vercel.app/api?username=JannisVzla)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JannisVzla)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannisVzla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake gif](https://github.com/JannisVzla/JannisVzla/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Snake Game  
+![Snake animation](https://github.com/TuUsuario/DuranTTV/blob/output/github-contribution-grid-snake.svg)  
 
